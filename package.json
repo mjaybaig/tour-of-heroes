@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "angular-quickstart",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
@@ -68,4 +69,16 @@
     "@types/selenium-webdriver": "^2.53.32"
   },
   "repository": {}
+=======
+  "name": "openshift-cartridge-nodejs-template",
+  "version": "1.0.1",
+  "description": "Custom Node.js cartridge for OpenShift - sample application",
+  "private": true,
+  "main": "start.js",
+  "scripts": {
+    "start": "node --use_strict start.js"
+  },
+  "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
+  "license": "ISC"
+>>>>>>> 4ab69f3dbb3ee3bd6e5a6ba0524885dba45ea815
 }
