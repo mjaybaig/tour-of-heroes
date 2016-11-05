@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "angular-quickstart",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
@@ -80,5 +79,4 @@
   },
   "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
   "license": "ISC"
->>>>>>> 4ab69f3dbb3ee3bd6e5a6ba0524885dba45ea815
 }
